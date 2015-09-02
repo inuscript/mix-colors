@@ -1,16 +1,17 @@
 {
   "name": "mix-colors",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Mix css colors.",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
+  "files": ["index.js"],
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["css", "color", "colors"],
+  "author": "inuscript",
   "license": "ISC",
   "devDependencies": {
     "mocha": "^2.3.0"
